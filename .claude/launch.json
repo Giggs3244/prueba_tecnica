@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "demo-bhd-app",
+      "runtimeExecutable": "fnm",
+      "runtimeArgs": ["exec", "--using=default", "npm.cmd", "--prefix", "demo-bhd-app", "start"],
+      "port": 4200
+    }
+  ]
+}
